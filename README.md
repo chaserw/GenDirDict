@@ -48,14 +48,14 @@ tar.gz, zip, rar, tar, txt, log
 组合方式：
 
 ```
-时间 + 后缀					                 eg: 20220202.tar.gz
-域名 + 后缀 		  		               eg: www.baidu.com.tar.gz
-域名关键词 + 后缀 	  			         eg: baidu.tar.gz
-域名关键词 + 时间 + 后缀 	  	    eg: baidu.tar.gz
-目标关键词 + 后缀				            eg: 百度.rar
-目标关键词 + 时间 + 后缀 		      eg: 百度20220202.rar
-站点目录关键词 + 后缀			         eg: backup.tar.gz
-站点目录关键词 + 时间 + 后缀 	   eg: backup20220202.tar.gz
+时间 + 后缀 eg: 20220202.tar.gz
+域名 + 后缀 eg: www.baidu.com.tar.gz
+域名关键词 + 后缀 eg: baidu.tar.gz
+域名关键词 + 时间 + 后缀 eg: baidu.tar.gz
+目标关键词 + 后缀 eg: 百度.rar
+目标关键词 + 时间 + 后缀 eg: 百度20220202.rar
+站点目录关键词 + 后缀 eg: backup.tar.gz
+站点目录关键词 + 时间 + 后缀 eg: backup20220202.tar.gz
 ```
 
 ## 0x01 Usage
